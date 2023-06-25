@@ -1,8 +1,8 @@
 # Install Dependencies
 
-**For Backend** - `npm i`
+**For Backend** - `cd backend` `npm i` `npm run start`
 
-**For Frontend** - `cd frontend` ` npm i`
+**For Frontend** - `cd frontend` ` npm i` `npm run start`
 
 ## Env Variables
 
